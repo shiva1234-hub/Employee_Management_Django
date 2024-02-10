@@ -1,0 +1,1 @@
+This is a project on Employee Management system which includes all the basic functionality of Addition, Deletion and Updating of the Employee Records. All the data is reflected in real time in the database (We have used Postgre SQL here )
